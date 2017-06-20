@@ -1,0 +1,7 @@
+For the development of this project, I made use of:
+- python 2.7
+- Ipython notebook
+- Numpy, Pandas, Matplotlib, Seaborn and Sklearn libraries in python
+
+My work is reported in College Scorecard Report.pdf and all the implementation
+code can be found in the commented Ipython notebook College Scorecard.ipynb
